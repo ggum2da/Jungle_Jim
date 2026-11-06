@@ -1,4 +1,4 @@
-# Jungle_Jim — 5챕터 레벨·미션 설계
+# Jungle JIM — 5챕터 레벨·미션 설계
 
 > 버전 1.0 · 공간 수치·동선·배치는 게임화 초기 제안
 > 연결: [서사](02_STORY.md) · [전투·저장](05_GAMEPLAY.md) · [작업 검수](07_DEVELOPMENT_PLAN.md)
